@@ -9,26 +9,26 @@
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: Luba Maiza - Model Engineering College,Thrikkakkara
+- Member 2: Jyothika T - Model Engineering College,Thrikkakkara
 
 ### Project Description
-[2-3 lines about what your project does]
+Sock Tracker is a quirky, gamified mobile app designed to solve the age-old mystery of disappearing socks. Users can upload photos of their sock pairs, track them through laundry cycles, and earn streaks for keeping pairs intact. If a sock goes missing, the app connects users to a community of fellow sock-trackers to help find matches. Combining utility, humor, and social engagement, Sock Tracker turns a mundane chore into a playful challenge—because laundry should never be lonely.
+
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Every laundry day, socks mysteriously vanish into the void—never to be seen again. Scientists call it “spontaneous sock evaporation.” We call it unacceptable. Billions of socks are lost annually (probably), and humanity has done nothing about it. Until now.
+
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+The Solution (That Nobody Asked For)
+Introducing Sock Tracker—a gloriously over-engineered app that lets you catalog your socks, track them through laundry cycles, and earn streaks for keeping pairs together. Lost a sock? No worries. Our Sock Match Community is here to help you find its long-lost twin. It’s part game, part social network, and entirely unnecessary—but you’ll never lose a sock in silence again.
+
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+chatgpt,copilot,lovableai
 
 For Hardware:
 - [List main components]
@@ -47,14 +47,24 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+<img width="943" height="494" alt="image" src="https://github.com/user-attachments/assets/677dfb87-a7b1-4624-bdcd-c6148a8a7abf" />
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+This image is a login screen for the Sock Tracker app, designed with a playful and inviting aesthetic
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+
+<img width="929" height="441" alt="image" src="https://github.com/user-attachments/assets/2a14f185-b213-4f47-a0b8-a05ddcb7aa1d" />
+
+The image displays a promotional webpage for a service called Sock Tracker, designed to make laundry more engaging and efficient.
+
+
+<img width="889" height="453" alt="image" src="https://github.com/user-attachments/assets/47573dbe-0b8b-4fd4-b7b7-3e894274117d" />
+
+The image showcases the user interface of an app called Sock Tracker, designed to help users manage their socks during laundry.
+
+<img width="1798" height="712" alt="image" src="https://github.com/user-attachments/assets/31f1a140-4b4e-434d-9174-208bb0b0662f" />
+
+This part of the app gives users a quick overview of their latest sock-related actions. 
+
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
@@ -81,8 +91,8 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+https://youtu.be/Vdn9-1-O72E
+Sock Tracker is a quirky, gamified mobile app designed to solve the age-old mystery of disappearing socks. Users can upload photos of their sock pairs, track them through laundry cycles, and earn streaks for keeping pairs intact. If a sock goes missing, the app connects users to a community of fellow sock-trackers to help find matches. Combining utility, humor, and social engagement, Sock Tracker turns a mundane chore into a playful challenge—because laundry should never be lonely.
 
 # Additional Demos
 [Add any extra demo materials/links]
